@@ -10,6 +10,7 @@
     "javascript",
     "node"
   ],
+  "type": "module",
   "author": "ashish s panicker",
   "license": "ISC",
   "devDependencies": {
